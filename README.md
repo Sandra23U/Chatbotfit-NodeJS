@@ -1,6 +1,9 @@
-![nd1](https://user-images.githubusercontent.com/66983974/118434695-ddb59c00-b6b3-11eb-93ef-8fcd44ed28e7.jpg)
+<img src="https://github.com/Sandra23U/Chatbotfit-NodeJS/blob/dependabot/npm_and_yarn/lodash-4.17.21/Siga%20para%20ver%20mais%20dicas.gif" alt="gif NodeJS">
 
-# Chatbotfit-NodeJS
+
+
+
+## Chatbotfit-NodeJS
 
 
 
